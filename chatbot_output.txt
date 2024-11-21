@@ -1,0 +1,27 @@
+User: hallo
+Bot: Hey!
+
+User: tell me about audi models
+Bot: We feature a range of Audi models like the A3, A4, A5, Q5, and the powerful RS and S models!
+
+User: any maintenance tip?
+Bot: Regular service, using Audi-approved oils, and checking tire pressure are key for maintenance. For specific tips, reach out to your nearest Audi specialist!
+
+User: what is the popular audis
+Bot: The Audi RS7, A8, and Q8 are popular among enthusiasts, but many love the A5 for its blend of style and performance.
+
+User: what is the popular audis
+Bot: The Audi RS7, A8, and Q8 are popular among enthusiasts, but many love the A5 for its blend of style and performance.
+
+User: can i share photos?
+Bot: We'd love to see your Audi! Tag us or send your photos, and we'll consider them for a feature on our page!
+
+User: how can i share audi photos?
+Bot: We'd love to see your Audi! Tag us or send your photos, and we'll consider them for a feature on our page!
+
+User: do you organize meetups?
+Bot: Audispot254 occasionally hosts Audi meetups! Follow us for announcements and join other Audi enthusiasts in Kenya.
+
+User: bye
+Bot: Talk to you later
+
